@@ -25,3 +25,27 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+Topin Info :
+
+Static Resolver :
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/app-routing.module.ts
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/error-page/error-page.component.ts
+
+Dynamic Resolver:
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/app-routing.module.ts
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/servers/server/server-resolver.service.ts
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/servers/server/server.component.ts
+
+CanActivate :
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/app-routing.module.ts
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/auth-guard.service.ts
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/auth.service.ts
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/app.module.ts
+
+CanDeactivate :
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/app-routing.module.ts
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/servers/edit-server/can-deactivate.service.ts
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/servers/edit-server/edit-server.component.ts
+https://github.com/abhaylodha/Angular_13.routing-start/blob/master/src/app/app.module.ts
+
